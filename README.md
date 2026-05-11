@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Erlang](https://img.shields.io/badge/Erlang-%2300599C?logo=erlang&logoColor=fff)](#)
 
 <!--
 **krot3232/krot3232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
