@@ -1,5 +1,10 @@
 ## Hi there 👋
-[![Erlang](https://img.shields.io/badge/Erlang-%2300599C?logo=erlang&logoColor=fff)](#)
+[![Erlang](https://img.shields.io/badge/Erlang-A90533?logo=erlang&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 <!--
 **krot3232/krot3232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
